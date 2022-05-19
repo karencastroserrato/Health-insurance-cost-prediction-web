@@ -11,11 +11,12 @@ Below you will find the attributes of each person studied:
 - Region
 - Charges
 
-The data was obtained through Kaggle.
-
 Several predictive models were applied and evaluated to determine which model has the lowest margin of error, that is, the one that best fits the problem.
 
 🤓🦾 The goal is to accurately predict the cost of insurance based on people's data 🦾🤓
+
+[![Gif](https://media.giphy.com/media/hzWBk30NBvI6I5ymsJ/giphy.gif "Gif")](https://media.giphy.com/media/hzWBk30NBvI6I5ymsJ/giphy.gif "Gif")
+
 
 ### Streamlit library
 
@@ -28,3 +29,7 @@ Link: https://streamlit.io/
 Finally, find the link of the web application below:
 
 👉 https://health-insurance-cost-web-app.herokuapp.com/ 👈
+
+### Dataset 
+
+Medical Cost Personal Datasets - Kaggle: https://www.kaggle.com/datasets/mirichoi0218/insurance
